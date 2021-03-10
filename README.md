@@ -23,9 +23,9 @@ The controller, Arduino, will process the error between the attitude setpoint an
 The actuators will be two servo motors which are set to control the row and pitch axis separately to keep the platform balanced. Another servo motor will be controlled by the joystick to simulate the movement of the whole platform.
 
 ## Credits
-This is a group work. Credits go to my team members: Chen Chen, Wuji Zhang
-Motion tracking alogorithm: 
-x-io Technologies. "Open source IMU and AHRS algorithm." X-IO Technologies, 
+This is a group work. Credits go to my team members: Chen Chen, Wuji Zhang  
+Motion tracking alogorithm:  
+x-io Technologies. "Open source IMU and AHRS algorithm." X-IO Technologies,   
 https://x-io.co.uk/open-source-imu-and-ahrs-algorithms.
 
 ## License
