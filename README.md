@@ -1,17 +1,17 @@
 ## Arduino Pan_Tilt
-An Demo Video is here:  
-https://youtu.be/7a1tUkKl7bg  
-An introduction video is here:  
-https://drive.google.com/file/d/1Is1hj_6t_KWVfk3MZAUc0cFzajiSkAoP/view?usp=sharing  
+Our project is intended to build a movable pan and tilt. As modern technology progresses, more and more robots are joining the manual labor force. In order to make those robots more capable, we need to develop a self-balancing system. So robots can handle more complex and humanoid tasks, such as keeping a glass of water stable while moving  as a waiter robot. To balance a platform, we need perception of platform attitude and control of it.
 
 ## Motivation
 In some so called robot restraunts, there exist the robot waiters/waitressed. However, these robots are basically "wheeled plate" that can only deliver the food instead of serving them. This project tries to design a robot arm that could maintain the balance of the plate, which then can be used to serve a drink without spilling.
 
-## Tech/framework used
-Arduino UNO, FreeRTOS, Accelerometer, Gyroscope, Servo Motors, and Motion Tracking Algorithm.
-
 ## Hardware
 ![alt text](https://github.com/Kenny-Z/Pan_Tilt/blob/main/image/image.PNG?raw=true)
+## Demo Video is here:  
+https://youtu.be/7a1tUkKl7bg  
+## introduction video is here:  
+https://drive.google.com/file/d/1Is1hj_6t_KWVfk3MZAUc0cFzajiSkAoP/view?usp=sharing  
+## Tech/framework used
+Arduino UNO, FreeRTOS, Accelerometer, Gyroscope, Servo Motors, and Motion Tracking Algorithm.
 
 ## Control System Diagram
 ![alt text](https://github.com/Kenny-Z/Pan_Tilt/blob/main/image/digram.PNG?raw=true)
